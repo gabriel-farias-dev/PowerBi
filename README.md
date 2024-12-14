@@ -13,3 +13,10 @@ Considerando o processo de agrupamento de pedidos para otimizar a performance da
 
 [![Gestão de cubagem](https://github.com/user-attachments/assets/8209745a-9fe4-46d5-9957-ea60f3768ea7)](https://app.powerbi.com/view?r=eyJrIjoiYzdmZjMyYTktYTU0YS00YjgzLWE2ODgtOWUzZGJmOWE3ZDc2IiwidCI6ImQ2ZTVmZTFhLTQ5YWYtNDNjNS1iMzAyLTE5MTJjODY1NzgzYyJ9)
 
+## Análise de Validade de Estoque
+### Descrição
+Conhecer a validade dos produtos em estoque é fundamental para determinar a quantidade de produtos vendáveis e gerenciar as ofertas da empresa, especialmente quando a validade está próxima de expirar. Isso permite a venda de produtos antes que se tornem inviáveis para comercialização. As bases deste relatório foram criadas em Python e armazenadas em um banco de dados, permitindo a simulação de consultas (queries) dentro do sistema.
+
+### Importância
+A visão da validade do estoque é importante por diversos motivos. No caso de produtos não perecíveis, cuja validade pode durar anos, existem regulamentações que restringem a comercialização a preço cheio quando a validade se aproxima de um limite crítico (por exemplo, 4 meses). Isso obriga a empresa a realizar promoções para evitar grandes prejuízos ao liquidar o estoque. Este relatório auxilia justamente na gestão desses casos relacionados à validade.
+
