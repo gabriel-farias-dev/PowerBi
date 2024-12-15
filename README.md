@@ -3,12 +3,12 @@ Este repositório contém análises de dados desenvolvidas em Power BI, juntamen
 
 ## Índice
 - [Análise de Cubagem Logística](#Análise-de-Cubagem-Logística)
-  - [Descrição](#Descrição-1)
-  - [Importância](#Importância-1)
+  - [Descrição](#Descrição)
+  - [Importância](#Importância)
   - [Sobre o DashBoard](#Sobre-o-DashBoard)
 - [Validade de Estoque](#Análise-de-Validade-de-Estoque)
-  - [Descrição](#Descrição-2)
-  - [Importância](#Importância-2)
+  - [Descrição](#Descrição-1)
+  - [Importância](#Importância-1)
 
 ## Análise de Cubagem Logística
 ### Descrição
