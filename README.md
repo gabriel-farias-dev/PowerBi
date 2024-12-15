@@ -20,3 +20,4 @@ Conhecer a validade dos produtos em estoque é fundamental para determinar a qua
 ### Importância
 A visão da validade do estoque é importante por diversos motivos. No caso de produtos não perecíveis, cuja validade pode durar anos, existem regulamentações que restringem a comercialização a preço cheio quando a validade se aproxima de um limite crítico (por exemplo, 4 meses). Isso obriga a empresa a realizar promoções para evitar grandes prejuízos ao liquidar o estoque. Este relatório auxilia justamente na gestão desses casos relacionados à validade.
 
+[![Validade](https://github.com/user-attachments/assets/e78e2e04-5ed4-4fc2-9466-4a47ede80666)](https://app.powerbi.com/view?r=eyJrIjoiY2ZmNTNlNzAtOTNhMS00YWFkLTk3NTMtZWZmZmUxOWY0N2QyIiwidCI6ImQ2ZTVmZTFhLTQ5YWYtNDNjNS1iMzAyLTE5MTJjODY1NzgzYyJ9)
