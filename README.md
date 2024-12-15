@@ -1,6 +1,15 @@
 # Repositório de Análises Power BI com Bases Aleatórias
 Este repositório contém análises de dados desenvolvidas em Power BI, juntamente com bases de dados geradas aleatoriamente, evitando a exposição de informações sensíveis. As bases são criadas via scripts em Python ou geradas por meio de banco de dados simulado, permitindo a visualização dos relatórios de forma segura e preservando a confidencialidade dos dados originais.
 
+## Índice
+- [Análise de Cubagem Logística](##Análise-de-Cubagem-Logística)
+  - [Descrição](###Descrição)
+  - [Importância](####Importância)
+  - [Sobre o DashBoard](###Sobre-o-DashBoard)
+- [Validade de Estoque](##Análise-de-Validade-de-Estoque)
+  - [Descrição](###Descrição)
+  - [Importância](####Importância)
+
 ## Análise de Cubagem Logística
 ### Descrição
 A análise de cubagem foca no processo logístico de separar produtos em estoque para acomodação em caixas prontas para expedição. Este processo ocorre em horários estratégicos para otimizar a eficiência de envio e o uso de recursos no centro de distribuição.
