@@ -12,6 +12,7 @@ from secrets_psql import HOST,PASSWORD
 def makingData():
     ################################################### Making Products in WareHouse
     #Variables
+    branchs = ['SP','RJ','DF','RS','RN','AM','CE','PA','MG','MGR','MGRS','GO','PR','ES']
     init = time.time()
     products = []
     products_wout_color = ['Cadeira', 'Mesa', 'Sofá', 'Cama', 'Armário', 'Estante', 'Poltrona', 'Guarda-roupa','Luminária', 'Cômoda', 'Mesa de cabeceira', 'Prateleira', 'Rack', 'TV', 'Aparador','Balcão', 'Cortina', 'Tapete', 'Quadro', 'Espelho', 'Banheira', 'Vaso sanitário', 'Lavabo','Chuveiro', 'Espremedor de frutas', 'Cafeteira', 'Liquidificador', 'Geladeira', 'Fogão','Micro-ondas', 'Ar condicionado', 'Ventilador', 'Exaustor', 'Freezer', 'Batedeira','Cortador de grama', 'Secadora de roupas', 'Máquina de lavar', 'Ferro de passar', 'Aspirador de pó','Notebook', 'Smartphone', 'Tablet', 'Relógio', 'Fone de ouvido', 'Televisor', 'Projetor','Impressora', 'Computador', 'Câmera fotográfica', 'Roteador', 'Caixa de som', 'Console de videogame','Tênis', 'Bota', 'Sandália', 'Sapato', 'Chinelo', 'Jaqueta', 'Camisa', 'Calça', 'Short', 'Saia','Vestido', 'Blusa', 'Cachecol', 'Boné', 'Óculos', 'Bolsa', 'Carteira', 'Cinto', 'Mochila','Relógio de pulso', 'Colar', 'Anel', 'Brincos', 'Pulseira']
@@ -38,20 +39,22 @@ def makingData():
 
 
     df_storage = pd.DataFrame()
+    snap = dt.now().strftime('%Y-%m-%d %H:%M:%S')
     #storage
-    for everyRoom,row in df_rooms.iterrows():
-        for _ in range(0,900):
-            
-            try:
+    for everyBranch in branchs:
+        print(f'Branch: {everyBranch}')
+        for everyRoom,row in df_rooms.iterrows():
+            for _ in range(0,900):
                 
-                if df_storage[df_storage['room'] == everyRoom]['amount'].sum() < row['capacity']:
-                    df_transitory = pd.DataFrame([[everyRoom,random.randint(0,len(df_item) - 1),random.randint(0,15)]],columns=['room','item','amount'])
+                try:
+                    if df_storage[(df_storage['room'] == everyRoom) & (df_storage['branch'] == everyBranch)]['amount'].sum() < row['capacity']:
+                        df_transitory = pd.DataFrame([[everyRoom,random.randint(0,len(df_item) - 1),random.randint(0,20),everyBranch,snap]],columns=['room','item','amount','branch','snapshot'])
+                        df_storage = pd.concat([df_storage,df_transitory])
+                    else:
+                        break
+                except KeyError as e:
+                    df_transitory = pd.DataFrame([[everyRoom,random.randint(0,len(df_item) - 1),random.randint(0,20),everyBranch,snap]],columns=['room','item','amount','branch','snapshot'])
                     df_storage = pd.concat([df_storage,df_transitory])
-                else:
-                    break
-            except KeyError as e:
-                df_transitory = pd.DataFrame([[everyRoom,random.randint(0,len(df_item) - 1),random.randint(0,15)]],columns=['room','item','amount'])
-                df_storage = pd.concat([df_storage,df_transitory])
     
     print('Created Storage')
     return df_storage,df_rooms,df_item
@@ -72,6 +75,10 @@ if __name__ == '__main__':
     storage.to_csv(os.path.join(r'..\DataToInsert',f'storage_{date}.csv'),sep=';',index=None)
     rooms.to_csv(os.path.join(r'..\DataToInsert',f'rooms_{date}.csv'),sep=';')
     itens.to_csv(os.path.join(r'..\DataToInsert',f'itens_{date}.csv'),sep=';')
+    
+    cursor.execute('truncate table DIMENSION.DIM_PROD CASCADE')
+    cursor.execute('truncate table DIMENSION.DIM_STORAGE_ROOMS CASCADE')
+    cursor.execute('truncate table FACT.FT_STORAGE')
     
     cursor.execute(f"COPY DIMENSION.DIM_PROD FROM '{os.path.join(r'C:\Users\Farias\Desktop\PowerBi\DataToInsert',f"itens_{date}.csv")}' (FORMAT 'csv',HEADER,DELIMITER ';' )")    
     cursor.execute(f"COPY DIMENSION.DIM_STORAGE_ROOMS FROM '{os.path.join(r'C:\Users\Farias\Desktop\PowerBi\DataToInsert',f"rooms_{date}.csv")}' (FORMAT 'csv',HEADER,DELIMITER ';' )")

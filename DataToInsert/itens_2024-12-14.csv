@@ -1,0 +1,1156 @@
+;NomeProduto;Validade
+0;Cadeira Azul cadete;2027-01-13
+1;Cadeira Verde floresta;2027-03-02
+2;Cadeira Mostarda;2025-06-26
+3;Cadeira Jasmine;2025-06-06
+4;Cadeira Azul violeta;2025-10-19
+5;Cadeira Azul ardósia;2027-06-25
+6;Cadeira Açafrão;2027-03-22
+7;Cadeira Dourado escuro;2027-06-28
+8;Cadeira Azul aço;2025-11-10
+9;Cadeira Vermelho escuro;2025-09-06
+10;Cadeira Verde;2025-11-19
+11;Cadeira Azul alice;2027-04-17
+12;Cadeira Pardo escuro;2025-06-18
+13;Cadeira Azul ardósia escuro;2025-07-16
+14;Cadeira Laranja escuro;2027-03-01
+15;Mesa Azul manteiga;2025-07-01
+16;Mesa Amarelo escuro;2025-07-07
+17;Mesa Mostarda;2026-10-04
+18;Mesa Dourado escuro;2026-01-02
+19;Mesa Azul céu;2025-11-24
+20;Mesa Milho;2026-03-28
+21;Mesa Azul ardósia;2025-10-26
+22;Mesa Urucum;2026-03-31
+23;Mesa Azul ardósia claro;2026-11-16
+24;Mesa Azul ardósia escuro;2026-09-15
+25;Mesa Azul cobalto;2026-01-01
+26;Mesa Jade;2026-09-07
+27;Mesa Vermelho violeta médio;2025-06-09
+28;Mesa Rosa forte;2026-06-20
+29;Mesa Mamão batido;2026-01-15
+30;Sofá Verde floresta;2026-06-05
+31;Sofá Amarelo claro;2025-04-05
+32;Sofá Azul pólvora;2026-10-29
+33;Sofá Magenta;2027-04-18
+34;Sofá Púrpura média;2025-08-31
+35;Sofá Quartzo;2027-01-21
+36;Sofá Verde primavera;2026-12-21
+37;Sofá Dourado;2026-05-12
+38;Sofá Cereja;2025-11-07
+39;Sofá Branco antigo;2026-10-20
+40;Sofá Sépia;2026-10-15
+41;Sofá Azul marinho;2026-06-10
+42;Sofá Azul claro;2027-01-25
+43;Sofá Rosa;2026-01-18
+44;Sofá Carmim;2025-10-19
+45;Cama Púrpura;2027-02-26
+46;Cama Azul celeste pernambucano;2025-03-13
+47;Cama Verde espectro;2027-03-02
+48;Cama Rosa Choque;2026-01-02
+49;Cama Heliotrópio;2026-02-25
+50;Cama Siena;2026-04-28
+51;Cama Verde mar médio;2025-12-31
+52;Cama Água-marinha;2026-10-21
+53;Cama Verde Paris;2025-08-21
+54;Cama Azul brasilis;2026-07-29
+55;Cama Mostarda;2025-11-15
+56;Cama Azul aço claro;2026-12-31
+57;Cama Malva;2026-07-03
+58;Cama Cereja Hollywood;2025-03-15
+59;Cama Azul celeste brilhante;2026-12-05
+60;Armário Azul turquesa;2025-08-04
+61;Armário Azul força aérea;2027-06-11
+62;Armário Jambo;2026-11-02
+63;Armário Brasil;2025-05-15
+64;Armário Rosa forte;2026-06-02
+65;Armário Magenta escuro;2025-04-20
+66;Armário Amarelo escuro;2027-02-18
+67;Armário Salmão;2025-03-08
+68;Armário Madeira;2027-06-09
+69;Armário Verde mar claro;2026-05-13
+70;Armário Azul aço;2026-02-28
+71;Armário Jasmine;2026-05-08
+72;Armário Azul taparuere;2026-06-28
+73;Armário Ferrugem;2026-04-16
+74;Armário Salmão claro;2026-08-22
+75;Estante Tangerina;2025-03-27
+76;Estante Vermelho enegrecido;2025-05-23
+77;Estante Urucum;2027-05-15
+78;Estante Tomate;2025-12-02
+79;Estante Rosa embaçado;2025-10-21
+80;Estante Ametista;2025-06-08
+81;Estante Oliva parda;2024-12-26
+82;Estante Pêssego;2027-04-27
+83;Estante Renda antiga;2026-07-11
+84;Estante Neve;2025-07-11
+85;Estante Chocolate;2026-07-23
+86;Estante Creme;2025-12-08
+87;Estante Lima;2025-02-21
+88;Estante Rosa Choque;2025-09-28
+89;Estante Brasil;2026-07-06
+90;Poltrona Rosa embaçado;2027-06-21
+91;Poltrona Pardo;2026-11-17
+92;Poltrona Azul escuro;2025-10-15
+93;Poltrona Pêssego;2025-09-03
+94;Poltrona Neve;2025-09-09
+95;Poltrona Ouro;2025-01-23
+96;Poltrona Azul médio;2025-09-29
+97;Poltrona Caramelo;2027-02-21
+98;Poltrona Azul meia-noite;2025-02-01
+99;Poltrona Eucalipto;2025-01-28
+100;Poltrona Orquídea média;2027-04-14
+101;Poltrona Verde Paris;2027-05-21
+102;Poltrona Esmeralda;2025-06-19
+103;Poltrona Verde;2027-03-18
+104;Poltrona Quartzo;2025-11-22
+105;Guarda-roupa Azul violeta;2025-05-18
+106;Guarda-roupa Preto;2027-06-28
+107;Guarda-roupa Água;2025-03-14
+108;Guarda-roupa Herbal;2026-08-16
+109;Guarda-roupa Amarelo esverdeado;2026-08-15
+110;Guarda-roupa Glicínia;2026-04-19
+111;Guarda-roupa Verde mar escuro;2025-12-17
+112;Guarda-roupa Carmim clássico;2025-03-27
+113;Guarda-roupa Grená;2027-06-22
+114;Guarda-roupa Verde claro;2025-08-06
+115;Guarda-roupa Bege;2026-01-16
+116;Guarda-roupa Fandango;2027-03-01
+117;Guarda-roupa Tangerina;2025-09-19
+118;Guarda-roupa Bordô;2025-04-12
+119;Guarda-roupa Rútilo;2025-06-21
+120;Luminária Rútilo;2026-09-15
+121;Luminária Branco fumaça;2026-10-27
+122;Luminária Vermelho;2025-10-01
+123;Luminária Iris;2025-11-28
+124;Luminária Marrom sela;2026-06-19
+125;Luminária Castanho claro;2026-10-08
+126;Luminária Turquesa média;2026-02-18
+127;Luminária Escarlate;2027-05-21
+128;Luminária Azul turquesa;2027-05-15
+129;Luminária Marrom claro;2026-05-31
+130;Luminária Cereja Hollywood;2025-02-09
+131;Luminária Prata;2024-12-27
+132;Luminária Açafrão;2026-01-21
+133;Luminária Verde Paris;2025-04-22
+134;Luminária Caramelo;2026-05-19
+135;Cômoda Rosa amoroso;2027-06-29
+136;Cômoda Creme de marisco;2027-02-06
+137;Cômoda Marfim;2026-12-06
+138;Cômoda Lilás;2026-03-10
+139;Cômoda Rútilo;2026-10-03
+140;Cômoda Verde militar;2026-05-23
+141;Cômoda Vermelho violeta;2025-11-07
+142;Cômoda Azul camarada;2027-04-23
+143;Cômoda Dourado pálido;2025-11-08
+144;Cômoda Vermelho enegrecido;2025-05-31
+145;Cômoda Azul furtivo;2027-05-21
+146;Cômoda Verde escuro;2026-01-23
+147;Cômoda Amêndoa;2025-04-15
+148;Cômoda Cinza fosco;2026-09-02
+149;Cômoda Marrom rosado;2025-09-04
+150;Mesa de cabeceira Azul marinho;2025-11-15
+151;Mesa de cabeceira Jasmine;2027-02-23
+152;Mesa de cabeceira Lilás;2027-03-28
+153;Mesa de cabeceira Naval;2025-08-01
+154;Mesa de cabeceira Ouro;2026-01-30
+155;Mesa de cabeceira Zinco;2025-06-08
+156;Mesa de cabeceira Azul cadete;2027-04-08
+157;Mesa de cabeceira Cenoura;2026-08-22
+158;Mesa de cabeceira Azul claro;2025-04-29
+159;Mesa de cabeceira Salmão;2025-05-04
+160;Mesa de cabeceira Açafrão;2026-04-16
+161;Mesa de cabeceira Iris;2026-03-31
+162;Mesa de cabeceira Verde escuro;2026-01-16
+163;Mesa de cabeceira Azul ardósia claro;2026-05-04
+164;Mesa de cabeceira Quartzo;2026-05-31
+165;Prateleira Azul camarada;2027-02-20
+166;Prateleira Vermelho escuro;2026-06-06
+167;Prateleira Escarlate;2027-04-14
+168;Prateleira Vermelho violeta;2027-01-09
+169;Prateleira Azul furtivo;2027-05-06
+170;Prateleira Cinza ardósia claro;2026-02-27
+171;Prateleira Pêssego;2027-05-17
+172;Prateleira Sépia;2025-06-26
+173;Prateleira Verde-azulado;2026-01-23
+174;Prateleira Azul areado;2026-08-19
+175;Prateleira Zinco;2025-05-29
+176;Prateleira Púrpura;2027-05-29
+177;Prateleira Marrom amarelado;2027-01-12
+178;Prateleira Verde mar escuro;2026-12-08
+179;Prateleira Triássico;2026-09-09
+180;Rack Creme de marisco;2027-05-18
+181;Rack Mamão batido;2025-07-23
+182;Rack Rútilo;2026-10-26
+183;Rack Cinza médio;2026-06-25
+184;Rack Água;2026-04-28
+185;Rack Turquesa média;2025-10-05
+186;Rack Linho;2026-08-01
+187;Rack Creme;2025-11-18
+188;Rack Carmim clássico;2026-07-14
+189;Rack Fandango;2026-09-14
+190;Rack Marrom amarelado;2027-04-10
+191;Rack Castanho claro;2026-06-22
+192;Rack Dourado escuro;2027-02-24
+193;Rack Azul ardósia;2026-09-09
+194;Rack Laranja claro;2025-02-11
+195;TV Esmeralda;2025-03-19
+196;TV Carmim;2026-05-27
+197;TV Orquídea;2024-12-16
+198;TV Água-marinha;2025-05-20
+199;TV Orquídea média;2027-06-11
+200;TV Rosa danação;2027-02-14
+201;TV Rosa claro;2025-06-23
+202;TV Vermelho enegrecido;2027-06-07
+203;TV Azul céu profundo;2027-05-25
+204;TV Marrom rosado;2027-06-17
+205;TV Brasil;2025-05-03
+206;TV Azul ardósia escuro;2025-09-13
+207;TV Creme de marisco;2027-03-20
+208;TV Azul ardósia médio;2026-03-16
+209;TV Azul celeste;2024-12-17
+210;Aparador Verde pálido;2026-01-08
+211;Aparador Azul brasilis brilhante;2025-10-29
+212;Aparador Branco fumaça;2026-08-25
+213;Aparador Azul céu profundo;2025-01-03
+214;Aparador Verde escuro;2025-11-11
+215;Aparador Ébano;2027-01-27
+216;Aparador Madeira;2025-12-04
+217;Aparador Flerte;2025-06-03
+218;Aparador Mocassim;2025-08-06
+219;Aparador Verde grama;2025-12-13
+220;Aparador Vermelho escuro;2026-05-22
+221;Aparador Grená;2025-01-10
+222;Aparador Rosa profundo;2025-07-11
+223;Aparador Azul celeste;2025-11-30
+224;Aparador Roxo brasilis;2026-10-04
+225;Balcão Roxo brasilis;2025-10-22
+226;Balcão Ébano;2025-07-11
+227;Balcão Branco antigo;2025-01-17
+228;Balcão Fúcsia;2025-01-27
+229;Balcão Azul celeste brilhante;2025-10-10
+230;Balcão Âmbar;2026-08-02
+231;Balcão Rosa brilhante;2027-03-07
+232;Balcão Aspargo;2026-12-15
+233;Balcão Zinco;2027-02-05
+234;Balcão Violeta;2025-05-30
+235;Balcão Oliva parda;2025-11-29
+236;Balcão Azul força aérea;2025-12-27
+237;Balcão Azul;2025-04-14
+238;Balcão Turquesa;2026-11-18
+239;Balcão Azul claro;2026-02-22
+240;Cortina Verde lima;2025-07-24
+241;Cortina Caqui;2027-03-21
+242;Cortina Ametista;2025-07-16
+243;Cortina Água;2025-11-07
+244;Cortina Amarelo esverdeado;2025-05-13
+245;Cortina Heliotrópio;2026-04-18
+246;Cortina Dourado;2025-08-04
+247;Cortina Azul celeste brilhante;2025-01-08
+248;Cortina Quartzo;2025-01-23
+249;Cortina Rosa claro;2025-03-30
+250;Cortina Azul areado;2025-06-08
+251;Cortina Azul ardósia escuro;2025-08-18
+252;Cortina Branco navajo;2024-12-20
+253;Cortina Dourado pálido;2025-05-20
+254;Cortina Preto;2027-04-14
+255;Tapete Lavanda;2026-02-10
+256;Tapete Alizarina;2026-07-29
+257;Tapete Púrpura;2025-05-31
+258;Tapete Água;2027-01-23
+259;Tapete Neve;2025-02-22
+260;Tapete Rosa danação;2026-06-09
+261;Tapete Azul celeste brilhante;2025-01-14
+262;Tapete Turquesa pálida;2025-07-25
+263;Tapete Violeta;2025-04-21
+264;Tapete Carmesim;2026-11-05
+265;Tapete Limão;2027-07-01
+266;Tapete Amarelo queimado;2027-04-13
+267;Tapete Bege;2027-06-05
+268;Tapete Creme de menta;2025-06-24
+269;Tapete Azul ardósia escuro;2025-07-12
+270;Quadro Cereja Hollywood;2026-07-15
+271;Quadro Azul turquesa;2026-03-26
+272;Quadro Rosa brilhante;2026-09-10
+273;Quadro Carmesim;2025-10-03
+274;Quadro Castanho avermelhado;2027-03-03
+275;Quadro Marrom sela;2026-10-03
+276;Quadro Siena;2025-12-22
+277;Quadro Esmeralda;2025-12-10
+278;Quadro Cinza fosco;2027-05-30
+279;Quadro Azul pólvora;2025-04-28
+280;Quadro Mostarda;2027-06-19
+281;Quadro Azul céu;2026-01-14
+282;Quadro Brasil;2026-09-19
+283;Quadro Azul petróleo;2026-09-21
+284;Quadro Cinza ardósia escuro;2025-01-19
+285;Espelho Amarelo;2025-12-16
+286;Espelho Rosa danação;2026-04-24
+287;Espelho Branco fumaça;2025-08-18
+288;Espelho Azul flor de milho;2026-05-18
+289;Espelho Creme;2026-11-13
+290;Espelho Azul violeta;2025-01-01
+291;Espelho Tijolo refratário;2027-03-18
+292;Espelho Magenta;2026-09-08
+293;Espelho Oliva;2026-09-02
+294;Espelho Quartzo;2026-09-17
+295;Espelho Azul furtivo;2025-04-02
+296;Espelho Azul celeste pernambucano;2027-07-01
+297;Espelho Dourado escuro;2026-07-27
+298;Espelho Cobre;2025-07-25
+299;Espelho Violeta escuro;2025-07-01
+300;Banheira Rosa forte;2027-02-07
+301;Banheira Borgonha;2025-10-24
+302;Banheira Azul pólvora;2026-03-30
+303;Banheira Prata;2027-03-12
+304;Banheira Azul claro;2026-03-01
+305;Banheira Carmim clássico;2025-12-23
+306;Banheira Amarelo creme;2027-03-10
+307;Banheira Flerte;2027-01-27
+308;Banheira Verde pálido;2026-06-06
+309;Banheira Milho Claro;2026-10-17
+310;Banheira Laranja;2026-10-01
+311;Banheira Rosa Choque;2025-02-10
+312;Banheira Água-marinha;2027-05-12
+313;Banheira Rosa danação;2026-09-01
+314;Banheira Laranja claro;2025-01-17
+315;Vaso sanitário Cenoura;2025-08-14
+316;Vaso sanitário Azul camarada;2025-01-23
+317;Vaso sanitário Laranja claro;2025-03-09
+318;Vaso sanitário Caqui escuro;2027-01-14
+319;Vaso sanitário Bege;2026-02-17
+320;Vaso sanitário Púrpura média;2026-01-27
+321;Vaso sanitário Azul celeste;2026-05-04
+322;Vaso sanitário Turquesa média;2025-02-03
+323;Vaso sanitário Mostarda;2025-12-19
+324;Vaso sanitário Concha;2026-04-03
+325;Vaso sanitário Feldspato;2026-10-18
+326;Vaso sanitário Azul brasilis;2026-07-16
+327;Vaso sanitário Cinza claro;2025-12-07
+328;Vaso sanitário Quartzo;2027-01-26
+329;Vaso sanitário Iris;2025-01-31
+330;Lavabo Violeta claro;2025-12-29
+331;Lavabo Marrom sela;2025-02-18
+332;Lavabo Brasil;2025-03-27
+333;Lavabo Dourado;2026-07-07
+334;Lavabo Tijolo refratário;2026-04-09
+335;Lavabo Grená;2026-10-29
+336;Lavabo Branco fumaça;2026-06-04
+337;Lavabo Verde;2025-01-21
+338;Lavabo Jade;2026-01-15
+339;Lavabo Rosa Choque;2025-09-22
+340;Lavabo Lavanda;2025-02-13
+341;Lavabo Verde espectro;2025-03-04
+342;Lavabo Verde lima;2025-12-06
+343;Lavabo Amarelo escuro;2026-01-12
+344;Lavabo Azul pólvora;2027-05-01
+345;Chuveiro Cinza escuro;2027-01-27
+346;Chuveiro Lavanda;2026-07-13
+347;Chuveiro Salmão escuro;2026-03-13
+348;Chuveiro Trigo;2025-09-21
+349;Chuveiro Maná;2025-10-28
+350;Chuveiro Verde primavera;2027-05-19
+351;Chuveiro Urucum;2026-02-23
+352;Chuveiro Ocre;2026-08-24
+353;Chuveiro Turquesa pálida;2026-02-13
+354;Chuveiro Rosa amoroso;2025-05-17
+355;Chuveiro Caqui escuro;2026-07-17
+356;Chuveiro Marrom amarelado;2026-04-21
+357;Chuveiro Azul areado;2026-09-02
+358;Chuveiro Violeta;2027-03-17
+359;Chuveiro Rosa forte;2026-07-03
+360;Espremedor de frutas Pardo;2026-12-27
+361;Espremedor de frutas Rosa forte;2026-11-24
+362;Espremedor de frutas Azul claro;2026-07-28
+363;Espremedor de frutas Água-marinha;2024-12-24
+364;Espremedor de frutas Lavanda avermelhada;2026-05-26
+365;Espremedor de frutas Amarelo escuro;2025-11-24
+366;Espremedor de frutas Pêssego;2027-01-13
+367;Espremedor de frutas Creme de menta;2027-03-17
+368;Espremedor de frutas Verde lima;2025-09-30
+369;Espremedor de frutas Marrom;2027-01-23
+370;Espremedor de frutas Nyanza;2026-12-05
+371;Espremedor de frutas Cereja Hollywood;2026-12-22
+372;Espremedor de frutas Verde fluorescente;2026-10-24
+373;Espremedor de frutas Lilás;2025-11-25
+374;Espremedor de frutas Orquídea escura;2026-03-03
+375;Cafeteira Aspargo;2026-12-30
+376;Cafeteira Ocre;2025-03-27
+377;Cafeteira Azul camarada;2027-05-22
+378;Cafeteira Ameixa;2026-02-27
+379;Cafeteira Azul aço;2026-05-18
+380;Cafeteira Branco navajo;2025-08-11
+381;Cafeteira Milho;2026-01-10
+382;Cafeteira Borgonha;2025-03-17
+383;Cafeteira Sépia;2025-11-02
+384;Cafeteira Turquesa pálida;2025-01-13
+385;Cafeteira Jambo;2025-03-08
+386;Cafeteira Azul real;2026-04-29
+387;Cafeteira Orquídea média;2025-11-03
+388;Cafeteira Ciano;2025-06-10
+389;Cafeteira Cinza escuro;2026-11-29
+390;Liquidificador Rosa amoroso;2027-02-11
+391;Liquidificador Magenta escuro;2025-02-02
+392;Liquidificador Branco fantasma;2026-06-26
+393;Liquidificador Chocolate;2026-07-01
+394;Liquidificador Orquídea;2027-02-28
+395;Liquidificador Rútilo;2025-03-02
+396;Liquidificador Azul pólvora;2025-08-08
+397;Liquidificador Azul celeste pernambucano;2026-11-13
+398;Liquidificador Azul camarada;2026-07-01
+399;Liquidificador Creme de marisco;2026-07-21
+400;Liquidificador Neve;2026-07-01
+401;Liquidificador Ciano;2025-10-24
+402;Liquidificador Marrom rosado;2025-08-25
+403;Liquidificador Salmão claro;2027-07-02
+404;Liquidificador Cereja;2025-07-09
+405;Geladeira Turquesa média;2025-05-21
+406;Geladeira Azul celeste brilhante;2026-09-02
+407;Geladeira Cereja;2027-06-17
+408;Geladeira Independência;2025-04-17
+409;Geladeira Esmeralda;2025-06-26
+410;Geladeira Azul ardósia;2027-04-01
+411;Geladeira Escarlate;2025-12-01
+412;Geladeira Amarelo brasilis;2025-01-20
+413;Geladeira Cardo;2025-05-11
+414;Geladeira Creme de marisco;2025-10-04
+415;Geladeira Cinza ardósia claro;2026-04-09
+416;Geladeira Ébano;2026-10-11
+417;Geladeira Azul claro;2027-01-30
+418;Geladeira Borgonha;2027-03-02
+419;Geladeira Cereja Hollywood;2026-12-20
+420;Fogão Azul céu;2026-09-24
+421;Fogão Preto;2025-12-03
+422;Fogão Zinco;2025-08-27
+423;Fogão Branco fantasma;2027-03-30
+424;Fogão Açafrão;2025-05-23
+425;Fogão Pêssego;2025-06-28
+426;Fogão Rútilo;2025-10-01
+427;Fogão Fuligem;2026-12-22
+428;Fogão Cinza ardósia claro;2027-06-10
+429;Fogão Neve;2027-04-22
+430;Fogão Concha;2026-07-31
+431;Fogão Pardo escuro;2025-04-17
+432;Fogão Milho;2026-01-16
+433;Fogão Azul alice;2027-01-22
+434;Fogão Cardo;2027-06-30
+435;Micro-ondas Zinco;2026-12-21
+436;Micro-ondas Turquesa pálida;2027-06-10
+437;Micro-ondas Cinza claro;2027-03-09
+438;Micro-ondas Laranja claro;2026-06-04
+439;Micro-ondas Ametista;2027-01-17
+440;Micro-ondas Carmim carnáceo;2025-01-26
+441;Micro-ondas Laranja;2027-04-02
+442;Micro-ondas Turquesa escura;2026-01-01
+443;Micro-ondas Aspargo;2027-05-05
+444;Micro-ondas Ciano escuro;2025-04-01
+445;Micro-ondas Azul turquesa brilhante;2025-04-21
+446;Micro-ondas Iris;2026-07-25
+447;Micro-ondas Verde mar escuro;2025-10-27
+448;Micro-ondas Limão;2027-02-25
+449;Micro-ondas Azul médio;2026-04-12
+450;Ar condicionado Amarelo brasilis;2026-11-28
+451;Ar condicionado Azul real;2025-10-29
+452;Ar condicionado Ferrugem;2026-01-21
+453;Ar condicionado Glicínia;2025-01-29
+454;Ar condicionado Cinza médio;2026-11-05
+455;Ar condicionado Rosa amoroso;2025-11-27
+456;Ar condicionado Castanho avermelhado;2026-03-09
+457;Ar condicionado Azul taparuere;2025-11-02
+458;Ar condicionado Cinza ardósia claro;2026-08-30
+459;Ar condicionado Tomate;2026-11-23
+460;Ar condicionado Coral;2026-06-27
+461;Ar condicionado Rosa embaçado;2027-01-28
+462;Ar condicionado Eminência;2026-06-27
+463;Ar condicionado Vermelho violeta;2027-03-08
+464;Ar condicionado Zinco;2027-02-22
+465;Ventilador Marrom;2026-06-21
+466;Ventilador Fuligem;2026-10-15
+467;Ventilador Oliva;2025-12-20
+468;Ventilador Azul ardósia escuro;2025-08-16
+469;Ventilador Verde primavera médio;2024-12-26
+470;Ventilador Branco antigo;2024-12-31
+471;Ventilador Oliva escura;2025-02-03
+472;Ventilador Ébano;2027-03-17
+473;Ventilador Marrom claro;2026-02-13
+474;Ventilador Ocre;2027-05-27
+475;Ventilador Lilás;2026-06-05
+476;Ventilador Rútilo;2025-04-14
+477;Ventilador Azul pólvora;2026-02-07
+478;Ventilador Vermelho violeta médio;2027-02-09
+479;Ventilador Dourado;2025-01-30
+480;Exaustor Verde pálido;2027-01-14
+481;Exaustor Heliotrópio;2025-02-20
+482;Exaustor Azul furtivo;2026-03-25
+483;Exaustor Tijolo refratário;2027-05-18
+484;Exaustor Azul brasilis brilhante;2024-12-21
+485;Exaustor Cinza;2025-09-15
+486;Exaustor Vermelho;2027-05-27
+487;Exaustor Renda antiga;2025-04-20
+488;Exaustor Lavanda;2027-05-08
+489;Exaustor Azul meia-noite;2027-01-02
+490;Exaustor Cardo;2026-09-14
+491;Exaustor Brasil;2025-05-24
+492;Exaustor Siena;2027-01-24
+493;Exaustor Quartzo;2026-08-15
+494;Exaustor Grená;2026-06-21
+495;Freezer Marrom amarelado;2026-03-19
+496;Freezer Salmão claro;2027-01-20
+497;Freezer Verde Paris;2025-05-18
+498;Freezer Caqui escuro;2026-03-06
+499;Freezer Azul médio;2025-03-27
+500;Freezer Terracota;2027-04-03
+501;Freezer Cinza ardósia;2027-03-01
+502;Freezer Violeta claro;2025-09-29
+503;Freezer Carmim carnáceo;2025-07-24
+504;Freezer Siena;2026-11-09
+505;Freezer Turquesa pálida;2024-12-16
+506;Freezer Índigo;2025-02-16
+507;Freezer Magenta;2026-08-16
+508;Freezer Branco navajo;2025-12-03
+509;Freezer Branco fantasma;2025-08-19
+510;Batedeira Rútilo;2025-12-31
+511;Batedeira Dourado escuro;2026-01-30
+512;Batedeira Cereja;2025-06-08
+513;Batedeira Eucalipto;2026-06-22
+514;Batedeira Cardo;2025-08-28
+515;Batedeira Marrom amarelado;2026-11-29
+516;Batedeira Azul cadete;2026-09-29
+517;Batedeira Ametista;2026-10-19
+518;Batedeira Rosa danação;2026-08-28
+519;Batedeira Rosa embaçado;2025-12-15
+520;Batedeira Roxo brasilis;2025-03-25
+521;Batedeira Lavanda;2025-10-19
+522;Batedeira Jasmine;2025-01-26
+523;Batedeira Cereja Hollywood;2025-03-01
+524;Batedeira Pêssego;2025-01-28
+525;Cortador de grama Pardo;2026-01-22
+526;Cortador de grama Azul petróleo;2026-12-20
+527;Cortador de grama Pardo escuro;2026-03-02
+528;Cortador de grama Quantum;2026-09-20
+529;Cortador de grama Magenta;2026-09-26
+530;Cortador de grama Rosa Choque;2025-08-07
+531;Cortador de grama Mamão batido;2026-07-28
+532;Cortador de grama Azul celeste pernambucano;2027-02-17
+533;Cortador de grama Carmim clássico;2026-10-14
+534;Cortador de grama Chocolate;2026-10-22
+535;Cortador de grama Roxo brasilis;2026-09-05
+536;Cortador de grama Castanho claro;2025-07-09
+537;Cortador de grama Lima;2025-08-13
+538;Cortador de grama Creme de menta;2026-12-07
+539;Cortador de grama Ferrugem;2025-04-01
+540;Secadora de roupas Amarelo escuro;2025-01-13
+541;Secadora de roupas Amarelo esverdeado;2027-03-19
+542;Secadora de roupas Vermelho enegrecido;2024-12-24
+543;Secadora de roupas Glitter;2027-06-26
+544;Secadora de roupas Ocre;2026-07-28
+545;Secadora de roupas Branco floral;2026-10-12
+546;Secadora de roupas Âmbar;2027-05-30
+547;Secadora de roupas Mocassim;2027-06-13
+548;Secadora de roupas Verde militar;2026-04-10
+549;Secadora de roupas Chocolate;2026-09-27
+550;Secadora de roupas Verde Paris;2025-03-11
+551;Secadora de roupas Eminência;2025-02-04
+552;Secadora de roupas Marrom claro;2025-05-20
+553;Secadora de roupas Ciano escuro;2026-04-12
+554;Secadora de roupas Rosa Choque;2025-06-19
+555;Máquina de lavar Cenoura;2026-09-13
+556;Máquina de lavar Rosa profundo;2025-02-10
+557;Máquina de lavar Glicínia;2027-01-01
+558;Máquina de lavar Ciano claro;2027-06-27
+559;Máquina de lavar Azul claro;2027-01-09
+560;Máquina de lavar Rosa claro;2025-10-31
+561;Máquina de lavar Herbal;2027-06-08
+562;Máquina de lavar Amarelo escuro;2027-03-27
+563;Máquina de lavar Azul areado;2026-01-23
+564;Máquina de lavar Azul céu claro;2025-09-25
+565;Máquina de lavar Verde Paris;2026-07-27
+566;Máquina de lavar Rosa embaçado;2026-10-16
+567;Máquina de lavar Laranja;2025-11-02
+568;Máquina de lavar Azul celeste brilhante;2026-02-14
+569;Máquina de lavar Bronze;2025-07-30
+570;Ferro de passar Lilás;2026-07-13
+571;Ferro de passar Independência;2027-02-07
+572;Ferro de passar Cinza fosco;2025-06-17
+573;Ferro de passar Água;2026-06-04
+574;Ferro de passar Mocassim;2027-03-18
+575;Ferro de passar Tijolo refratário;2025-03-14
+576;Ferro de passar Carmim clássico;2025-04-04
+577;Ferro de passar Orquídea média;2025-11-25
+578;Ferro de passar Vermelho indiano;2027-06-03
+579;Ferro de passar Linho;2027-05-09
+580;Ferro de passar Amêndoa;2026-03-01
+581;Ferro de passar Açafrão;2025-07-08
+582;Ferro de passar Quantum;2025-01-29
+583;Ferro de passar Neve;2027-06-22
+584;Ferro de passar Vermelho violeta médio;2025-06-10
+585;Aspirador de pó Amarelo esverdeado;2025-11-01
+586;Aspirador de pó Roxo brasilis;2026-07-18
+587;Aspirador de pó Salmão claro;2026-07-24
+588;Aspirador de pó Eminência;2026-02-22
+589;Aspirador de pó Terracota;2027-04-28
+590;Aspirador de pó Grená;2025-01-12
+591;Aspirador de pó Verde claro;2026-03-05
+592;Aspirador de pó Turquesa pálida;2025-10-22
+593;Aspirador de pó Laranja escuro;2025-08-20
+594;Aspirador de pó Púrpura;2026-12-21
+595;Aspirador de pó Vermelho escuro;2027-02-04
+596;Aspirador de pó Cereja Hollywood;2025-12-16
+597;Aspirador de pó Vermelho;2027-05-05
+598;Aspirador de pó Azul brasilis brilhante;2026-04-28
+599;Aspirador de pó Jasmine;2026-07-02
+600;Notebook Eminência;2026-02-27
+601;Notebook Rosa profundo;2025-08-18
+602;Notebook Coral;2026-03-19
+603;Notebook Triássico;2025-10-10
+604;Notebook Azul cobalto;2025-10-18
+605;Notebook Azul ardósia médio;2025-06-27
+606;Notebook Azul médio;2025-02-24
+607;Notebook Dourado;2025-09-26
+608;Notebook Lavanda;2026-09-13
+609;Notebook Alizarina;2025-03-19
+610;Notebook Independência;2027-03-06
+611;Notebook Rosa brilhante;2025-04-29
+612;Notebook Cinza claro;2025-02-23
+613;Notebook Pardo;2026-03-02
+614;Notebook Ferrugem;2027-04-22
+615;Smartphone Água;2025-08-06
+616;Smartphone Jade;2025-06-20
+617;Smartphone Azul camarada;2025-05-23
+618;Smartphone Azul céu;2027-05-01
+619;Smartphone Cardo;2025-10-07
+620;Smartphone Feldspato;2026-12-11
+621;Smartphone Ciano;2025-04-13
+622;Smartphone Azul flor de milho;2026-07-15
+623;Smartphone Milho Claro;2026-09-28
+624;Smartphone Rosa embaçado;2027-04-28
+625;Smartphone Bege;2027-05-10
+626;Smartphone Violeta;2025-01-03
+627;Smartphone Verde lima;2025-07-08
+628;Smartphone Ouro;2026-12-09
+629;Smartphone Castanho claro;2025-05-03
+630;Tablet Vermelho violeta médio;2026-04-10
+631;Tablet Tangerina;2024-12-24
+632;Tablet Orquídea escura;2025-08-29
+633;Tablet Amarelo queimado;2026-10-15
+634;Tablet Laranja claro;2027-02-08
+635;Tablet Rosa forte;2025-06-26
+636;Tablet Verde mar claro;2027-01-29
+637;Tablet Creme;2027-01-13
+638;Tablet Eminência;2027-05-29
+639;Tablet Mostarda;2025-04-12
+640;Tablet Orquídea média;2026-07-11
+641;Tablet Verde mar médio;2025-04-13
+642;Tablet Verde escuro;2026-11-08
+643;Tablet Azul aço;2025-11-25
+644;Tablet Azul céu claro;2026-05-20
+645;Relógio Jasmine;2026-03-12
+646;Relógio Azul força aérea;2025-10-02
+647;Relógio Azul brasilis brilhante;2026-12-16
+648;Relógio Azul taparuere;2025-03-04
+649;Relógio Vermelho;2025-09-07
+650;Relógio Sépia;2025-04-13
+651;Relógio Cinza claro;2025-01-31
+652;Relógio Verde mar claro;2025-09-10
+653;Relógio Tomate;2024-12-23
+654;Relógio Roxo;2025-08-12
+655;Relógio Milho;2025-08-19
+656;Relógio Vermelho violeta pálido;2026-03-05
+657;Relógio Linho;2025-03-25
+658;Relógio Rosa claro;2027-05-13
+659;Relógio Ouro;2025-02-14
+660;Fone de ouvido Turquesa pálida;2025-08-24
+661;Fone de ouvido Rosa profundo;2026-11-06
+662;Fone de ouvido Ciano escuro;2027-01-27
+663;Fone de ouvido Creme de marisco;2026-06-07
+664;Fone de ouvido Feldspato;2025-12-22
+665;Fone de ouvido Magenta;2025-02-22
+666;Fone de ouvido Cinza;2025-03-28
+667;Fone de ouvido Orquídea;2027-06-14
+668;Fone de ouvido Coral;2025-03-02
+669;Fone de ouvido Amarelo esverdeado;2025-06-21
+670;Fone de ouvido Violeta claro;2025-08-16
+671;Fone de ouvido Rosa embaçado;2025-04-20
+672;Fone de ouvido Vermelho violeta médio;2026-05-22
+673;Fone de ouvido Salmão;2027-05-03
+674;Fone de ouvido Cobre;2025-01-31
+675;Televisor Azul camarada;2025-11-11
+676;Televisor Azul cadete;2026-06-10
+677;Televisor Prata;2025-04-18
+678;Televisor Ciano escuro;2025-01-23
+679;Televisor Água-marinha;2025-05-29
+680;Televisor Independência;2025-09-29
+681;Televisor Quantum;2025-09-14
+682;Televisor Kiwi;2025-05-31
+683;Televisor Lavanda avermelhada;2027-04-26
+684;Televisor Azul petróleo;2026-06-11
+685;Televisor Preto;2026-11-13
+686;Televisor Tangerina;2027-07-01
+687;Televisor Trigo;2025-09-28
+688;Televisor Vermelho enegrecido;2027-06-27
+689;Televisor Azul aço;2025-09-05
+690;Projetor Ouro;2026-08-04
+691;Projetor Lima;2027-05-03
+692;Projetor Rosa;2025-03-13
+693;Projetor Cenoura;2025-07-28
+694;Projetor Verde-azulado;2025-04-29
+695;Projetor Azul cadete;2026-08-17
+696;Projetor Branco floral;2025-09-05
+697;Projetor Azul violeta;2026-01-12
+698;Projetor Azul força aérea;2026-09-29
+699;Projetor Verde escuro;2026-07-08
+700;Projetor Magenta;2025-09-26
+701;Projetor Ferrugem;2027-06-18
+702;Projetor Azul turquesa brilhante;2025-06-26
+703;Projetor Borgonha;2027-05-16
+704;Projetor Mamão batido;2027-01-22
+705;Impressora Chocolate;2025-10-03
+706;Impressora Vermelho;2026-09-17
+707;Impressora Prata;2026-03-25
+708;Impressora Marrom claro;2025-09-17
+709;Impressora Salmão escuro;2026-12-16
+710;Impressora Zinco;2026-12-30
+711;Impressora Amêndoa;2025-09-11
+712;Impressora Grená;2025-09-17
+713;Impressora Turquesa escura;2027-04-26
+714;Impressora Azul ardósia;2025-09-15
+715;Impressora Amarelo claro;2027-02-14
+716;Impressora Rosa forte;2026-09-18
+717;Impressora Dourado pálido;2025-01-18
+718;Impressora Cinza escuro;2027-02-10
+719;Impressora Esmeralda;2026-02-18
+720;Computador Caqui;2026-02-10
+721;Computador Marrom;2026-04-30
+722;Computador Rosa danação;2027-04-30
+723;Computador Turquesa média;2025-01-03
+724;Computador Bege;2025-05-31
+725;Computador Azul meia-noite;2025-05-22
+726;Computador Herbal;2025-07-03
+727;Computador Índigo;2026-11-09
+728;Computador Azul ardósia médio;2025-03-14
+729;Computador Vermelho violeta pálido;2027-05-25
+730;Computador Cinza;2025-05-13
+731;Computador Naval;2025-06-03
+732;Computador Rosa forte;2027-03-06
+733;Computador Jambo;2026-03-31
+734;Computador Malva;2026-05-27
+735;Câmera fotográfica Cenoura;2026-06-05
+736;Câmera fotográfica Verde mar claro;2026-08-01
+737;Câmera fotográfica Grená;2026-07-30
+738;Câmera fotográfica Carmim;2027-06-10
+739;Câmera fotográfica Vermelho enegrecido;2025-07-06
+740;Câmera fotográfica Tomate;2025-03-27
+741;Câmera fotográfica Amarelo creme;2027-04-27
+742;Câmera fotográfica Lilás;2026-03-15
+743;Câmera fotográfica Branco floral;2027-02-10
+744;Câmera fotográfica Carmim carnáceo;2025-03-10
+745;Câmera fotográfica Ouro;2027-03-02
+746;Câmera fotográfica Trigo;2027-05-26
+747;Câmera fotográfica Verde;2025-11-24
+748;Câmera fotográfica Branco navajo;2026-06-23
+749;Câmera fotográfica Orquídea média;2027-04-23
+750;Roteador Azul pólvora;2025-05-12
+751;Roteador Salmão claro;2026-10-29
+752;Roteador Caqui escuro;2025-07-16
+753;Roteador Azul meia-noite;2026-04-12
+754;Roteador Água-marinha;2025-02-24
+755;Roteador Azul flor de milho;2025-06-17
+756;Roteador Oliva;2025-03-03
+757;Roteador Azul força aérea;2026-08-26
+758;Roteador Chocolate;2027-04-04
+759;Roteador Marrom claro;2025-10-15
+760;Roteador Independência;2027-01-16
+761;Roteador Rosa profundo;2025-11-08
+762;Roteador Tijolo refratário;2026-10-30
+763;Roteador Azul céu profundo;2027-06-08
+764;Roteador Escarlate;2025-05-27
+765;Caixa de som Azul ardósia claro;2025-12-31
+766;Caixa de som Azul areado;2027-05-06
+767;Caixa de som Roxo;2026-02-19
+768;Caixa de som Neve;2025-10-08
+769;Caixa de som Branco fantasma;2026-12-08
+770;Caixa de som Creme;2026-07-30
+771;Caixa de som Azul turquesa;2026-07-02
+772;Caixa de som Azul escuro;2025-11-17
+773;Caixa de som Concha;2027-06-10
+774;Caixa de som Renda antiga;2025-11-28
+775;Caixa de som Branco floral;2027-05-14
+776;Caixa de som Azul taparuere;2027-03-19
+777;Caixa de som Verde claro;2026-01-23
+778;Caixa de som Rosa profundo;2025-02-16
+779;Caixa de som Laranja;2026-05-20
+780;Console de videogame Pardo escuro;2026-06-09
+781;Console de videogame Azul ardósia;2026-09-17
+782;Console de videogame Siena;2025-08-24
+783;Console de videogame Azul areado;2026-09-17
+784;Console de videogame Jambo;2024-12-22
+785;Console de videogame Terracota;2025-09-22
+786;Console de videogame Cinza ardósia;2025-05-03
+787;Console de videogame Lavanda;2027-04-05
+788;Console de videogame Azul céu profundo;2026-06-06
+789;Console de videogame Marrom;2025-06-09
+790;Console de videogame Violeta claro;2026-07-16
+791;Console de videogame Vermelho enegrecido;2027-05-23
+792;Console de videogame Lima;2025-10-18
+793;Console de videogame Brasil;2026-04-02
+794;Console de videogame Violeta escuro;2027-05-19
+795;Tênis Verde pálido;2027-03-02
+796;Tênis Terracota;2027-03-24
+797;Tênis Verde fluorescente;2025-03-09
+798;Tênis Marrom claro;2025-12-25
+799;Tênis Rosa danação;2027-03-14
+800;Tênis Prata;2026-09-07
+801;Tênis Neve;2025-01-09
+802;Tênis Cinza escuro;2027-03-01
+803;Tênis Milho Claro;2027-04-29
+804;Tênis Verde;2026-01-19
+805;Tênis Siena;2026-04-25
+806;Tênis Carmim carnáceo;2027-01-26
+807;Tênis Cobre;2027-04-26
+808;Tênis Verde espectro;2025-08-18
+809;Tênis Eucalipto;2025-07-09
+810;Bota Púrpura;2027-01-25
+811;Bota Creme;2027-06-20
+812;Bota Azul celeste;2025-01-24
+813;Bota Turquesa média;2027-04-13
+814;Bota Maná;2025-04-01
+815;Bota Urucum;2027-02-07
+816;Bota Verde mar claro;2025-10-16
+817;Bota Ameixa;2025-04-04
+818;Bota Azul taparuere;2025-03-25
+819;Bota Violeta escuro;2026-10-23
+820;Bota Azul meia-noite;2026-01-26
+821;Bota Verde-azulado;2025-10-26
+822;Bota Madeira;2026-02-05
+823;Bota Azul petróleo;2025-08-20
+824;Bota Violeta claro;2027-03-23
+825;Sandália Urucum;2026-01-25
+826;Sandália Azul petróleo;2026-02-16
+827;Sandália Borgonha;2027-06-08
+828;Sandália Marrom amarelado;2025-10-11
+829;Sandália Tijolo refratário;2026-04-03
+830;Sandália Jasmine;2025-12-08
+831;Sandália Bordô;2026-04-12
+832;Sandália Azul celeste;2027-05-23
+833;Sandália Laranja claro;2025-07-12
+834;Sandália Azul marinho;2027-06-11
+835;Sandália Cinza escuro;2025-02-09
+836;Sandália Verde primavera médio;2025-10-13
+837;Sandália Sépia;2027-06-04
+838;Sandália Verde lima;2026-01-15
+839;Sandália Verde fluorescente;2025-07-20
+840;Sapato Cenoura;2026-07-09
+841;Sapato Rosa;2027-03-15
+842;Sapato Creme de menta;2025-07-16
+843;Sapato Prata;2026-05-11
+844;Sapato Ciano claro;2026-12-24
+845;Sapato Branco;2027-05-19
+846;Sapato Lima;2026-07-04
+847;Sapato Vermelho violeta médio;2026-06-21
+848;Sapato Água-marinha média;2025-07-20
+849;Sapato Chocolate;2027-02-05
+850;Sapato Magenta escuro;2026-10-29
+851;Sapato Azul;2027-03-27
+852;Sapato Azul celeste pernambucano;2026-07-01
+853;Sapato Amarelo esverdeado;2026-11-30
+854;Sapato Independência;2025-05-31
+855;Chinelo Cinza escuro;2025-08-13
+856;Chinelo Vermelho violeta;2025-08-07
+857;Chinelo Dourado;2027-03-23
+858;Chinelo Independência;2025-11-24
+859;Chinelo Bege;2025-12-05
+860;Chinelo Oliva parda;2026-02-04
+861;Chinelo Turquesa média;2026-09-18
+862;Chinelo Ouro;2027-02-09
+863;Chinelo Rosa amoroso;2026-03-14
+864;Chinelo Azul aço;2025-01-31
+865;Chinelo Bronze;2025-10-05
+866;Chinelo Ameixa;2025-09-08
+867;Chinelo Azul areado;2025-01-25
+868;Chinelo Terracota;2027-06-12
+869;Chinelo Carmim clássico;2025-05-24
+870;Jaqueta Preto;2027-03-12
+871;Jaqueta Azul pólvora;2025-02-25
+872;Jaqueta Herbal;2025-06-28
+873;Jaqueta Cinza ardósia claro;2026-02-25
+874;Jaqueta Vermelho;2025-01-20
+875;Jaqueta Magenta escuro;2025-08-09
+876;Jaqueta Verde mar claro;2025-10-09
+877;Jaqueta Amarelo creme;2026-10-15
+878;Jaqueta Grená;2026-09-05
+879;Jaqueta Cinza ardósia;2026-10-13
+880;Jaqueta Milho;2026-01-22
+881;Jaqueta Azul celeste;2027-02-02
+882;Jaqueta Dourado pálido;2026-07-19
+883;Jaqueta Orquídea escura;2026-09-27
+884;Jaqueta Violeta escuro;2027-06-24
+885;Camisa Bronze;2026-10-20
+886;Camisa Violeta;2026-04-05
+887;Camisa Verde mar claro;2026-12-17
+888;Camisa Glicínia;2027-06-18
+889;Camisa Ocre;2025-12-20
+890;Camisa Rútilo;2027-02-04
+891;Camisa Azul cobalto;2026-11-17
+892;Camisa Amarelo ouro claro;2026-12-29
+893;Camisa Rosa danação;2025-09-22
+894;Camisa Turquesa;2026-12-09
+895;Camisa Azul ardósia;2025-01-28
+896;Camisa Azul taparuere;2025-05-17
+897;Camisa Iris;2025-12-03
+898;Camisa Verde floresta;2026-09-02
+899;Camisa Roxo;2025-07-19
+900;Calça Verde-azulado;2025-09-25
+901;Calça Magenta escuro;2025-12-02
+902;Calça Urucum;2026-05-11
+903;Calça Naval;2025-04-07
+904;Calça Rosa amoroso;2026-03-20
+905;Calça Rosa embaçado;2026-05-13
+906;Calça Vermelho escuro;2025-03-14
+907;Calça Azul cobalto;2025-07-12
+908;Calça Marrom claro;2025-10-03
+909;Calça Ciano;2025-04-23
+910;Calça Marrom amarelado;2026-12-27
+911;Calça Salmão escuro;2025-05-09
+912;Calça Cinza escuro;2025-09-22
+913;Calça Milho Claro;2025-07-03
+914;Calça Borgonha;2026-03-24
+915;Short Vermelho;2027-01-18
+916;Short Azul brasilis brilhante;2026-04-07
+917;Short Renda antiga;2025-02-24
+918;Short Branco antigo;2025-06-07
+919;Short Milho Claro;2025-12-13
+920;Short Azul violeta;2027-02-14
+921;Short Coral;2026-04-20
+922;Short Marrom;2026-03-21
+923;Short Salmão;2025-05-01
+924;Short Couro;2025-10-30
+925;Short Azul brasilis;2025-11-13
+926;Short Verde fluorescente;2027-04-02
+927;Short Rosa Choque;2026-08-10
+928;Short Tangerina;2025-05-22
+929;Short Turquesa;2025-02-13
+930;Saia Orquídea escura;2025-01-01
+931;Saia Azul petróleo;2025-05-22
+932;Saia Herbal;2027-06-10
+933;Saia Pardo escuro;2027-06-21
+934;Saia Azul alice;2025-03-26
+935;Saia Azul taparuere;2027-05-21
+936;Saia Azul cobalto;2026-01-22
+937;Saia Verde;2026-04-07
+938;Saia Cinza claro;2027-04-26
+939;Saia Verde mar médio;2025-08-02
+940;Saia Fandango;2026-01-10
+941;Saia Branco antigo;2026-02-01
+942;Saia Branco floral;2026-06-18
+943;Saia Marrom amarelado;2026-02-06
+944;Saia Violeta claro;2026-03-19
+945;Vestido Ouro;2025-01-09
+946;Vestido Pardo;2026-09-25
+947;Vestido Tangerina;2025-02-26
+948;Vestido Azul taparuere;2027-03-24
+949;Vestido Triássico;2025-06-13
+950;Vestido Rosa forte;2026-03-01
+951;Vestido Castanho claro;2025-06-05
+952;Vestido Prata;2025-06-14
+953;Vestido Marrom amarelado;2025-01-19
+954;Vestido Azul celeste brilhante;2027-01-18
+955;Vestido Preto;2027-04-12
+956;Vestido Azul ardósia;2026-04-04
+957;Vestido Roxo brasilis;2027-06-16
+958;Vestido Azul alice;2026-03-11
+959;Vestido Rosa embaçado;2025-12-12
+960;Blusa Lavanda avermelhada;2024-12-18
+961;Blusa Marrom;2027-01-06
+962;Blusa Vermelho enegrecido;2025-08-26
+963;Blusa Cinza fosco;2025-10-17
+964;Blusa Âmbar;2027-04-15
+965;Blusa Trigo;2025-11-01
+966;Blusa Lilás;2025-07-17
+967;Blusa Azul marinho;2025-09-27
+968;Blusa Amarelo;2025-01-24
+969;Blusa Esmeralda;2025-08-21
+970;Blusa Ciano claro;2027-01-07
+971;Blusa Púrpura;2025-08-08
+972;Blusa Rosa brilhante;2026-05-01
+973;Blusa Eminência;2027-04-24
+974;Blusa Azul escuro;2027-04-24
+975;Cachecol Castanho claro;2026-07-28
+976;Cachecol Rosa embaçado;2027-04-14
+977;Cachecol Azul turquesa;2025-07-05
+978;Cachecol Azul camarada;2027-01-17
+979;Cachecol Milho Claro;2026-01-14
+980;Cachecol Jade;2025-03-21
+981;Cachecol Salmão claro;2026-05-29
+982;Cachecol Azul flor de milho;2026-08-29
+983;Cachecol Creme de marisco;2027-06-22
+984;Cachecol Alizarina;2026-04-22
+985;Cachecol Azul alice;2026-05-28
+986;Cachecol Bronze;2026-09-04
+987;Cachecol Urucum;2025-01-28
+988;Cachecol Verde Paris;2026-11-06
+989;Cachecol Tijolo refratário;2026-12-08
+990;Boné Azul taparuere;2025-05-19
+991;Boné Azul cadete;2026-01-29
+992;Boné Azul turquesa;2025-10-07
+993;Boné Milho;2026-09-20
+994;Boné Roxo;2026-08-07
+995;Boné Azul cobalto;2027-01-10
+996;Boné Azul areado;2025-03-26
+997;Boné Rosa brilhante;2026-02-14
+998;Boné Laranja escuro;2025-01-27
+999;Boné Lavanda avermelhada;2027-04-27
+1000;Boné Cinza claro;2026-06-20
+1001;Boné Cinza ardósia;2026-10-27
+1002;Boné Ciano escuro;2026-10-04
+1003;Boné Brasil;2025-12-19
+1004;Boné Azul ardósia claro;2026-04-06
+1005;Óculos Heliotrópio;2027-03-26
+1006;Óculos Zinco;2026-07-21
+1007;Óculos Pardo;2025-02-15
+1008;Óculos Carmim clássico;2025-05-26
+1009;Óculos Azul céu;2027-02-17
+1010;Óculos Dourado escuro;2026-06-27
+1011;Óculos Azul;2025-01-26
+1012;Óculos Kiwi;2025-08-23
+1013;Óculos Azul celeste brilhante;2027-05-28
+1014;Óculos Amarelo;2026-05-28
+1015;Óculos Esmeralda;2026-01-23
+1016;Óculos Amarelo brasilis;2027-01-06
+1017;Óculos Vermelho violeta médio;2026-04-16
+1018;Óculos Vermelho violeta pálido;2027-02-15
+1019;Óculos Vermelho escuro;2026-05-19
+1020;Bolsa Azul real;2027-03-18
+1021;Bolsa Azul aço claro;2026-08-01
+1022;Bolsa Índigo;2026-10-18
+1023;Bolsa Cinza escuro;2025-01-26
+1024;Bolsa Bege;2025-04-23
+1025;Bolsa Salmão claro;2027-03-30
+1026;Bolsa Borgonha;2025-12-16
+1027;Bolsa Açafrão;2026-06-09
+1028;Bolsa Azul brasilis brilhante;2025-12-09
+1029;Bolsa Amarelo brasilis;2026-06-20
+1030;Bolsa Amêndoa;2026-06-11
+1031;Bolsa Verde Paris;2026-07-28
+1032;Bolsa Fandango;2026-03-31
+1033;Bolsa Eminência;2027-02-12
+1034;Bolsa Flerte;2024-12-14
+1035;Carteira Ciano claro;2025-03-12
+1036;Carteira Amarelo claro;2025-10-30
+1037;Carteira Creme;2026-05-08
+1038;Carteira Madeira;2026-12-31
+1039;Carteira Prata;2026-02-01
+1040;Carteira Coral;2027-01-20
+1041;Carteira Rosa;2026-08-08
+1042;Carteira Creme de menta;2026-09-08
+1043;Carteira Tomate;2025-06-20
+1044;Carteira Azul flor de milho;2025-07-24
+1045;Carteira Esmeralda;2025-02-16
+1046;Carteira Cinza claro;2025-10-17
+1047;Carteira Azul marinho;2025-05-31
+1048;Carteira Caramelo;2026-08-10
+1049;Carteira Roxo;2027-02-24
+1050;Cinto Orquídea média;2025-01-12
+1051;Cinto Turquesa escura;2025-11-25
+1052;Cinto Magenta escuro;2025-06-23
+1053;Cinto Terracota;2025-09-16
+1054;Cinto Azul turquesa brilhante;2025-10-14
+1055;Cinto Branco antigo;2026-09-17
+1056;Cinto Iris;2025-01-31
+1057;Cinto Ciano;2027-05-30
+1058;Cinto Alizarina;2026-12-03
+1059;Cinto Laranja escuro;2026-10-07
+1060;Cinto Cinza ardósia escuro;2026-12-29
+1061;Cinto Azul areado;2027-06-16
+1062;Cinto Madeira;2025-06-19
+1063;Cinto Verde mar claro;2025-10-23
+1064;Cinto Azul ardósia;2026-01-16
+1065;Mochila Lavanda avermelhada;2026-12-10
+1066;Mochila Lima;2025-02-02
+1067;Mochila Azul brasilis;2025-03-06
+1068;Mochila Verde amarelado;2027-03-08
+1069;Mochila Orquídea;2026-10-12
+1070;Mochila Verde militar;2026-04-05
+1071;Mochila Branco;2026-03-20
+1072;Mochila Cinza;2027-02-12
+1073;Mochila Verde-azulado;2026-12-10
+1074;Mochila Cinza médio;2027-02-18
+1075;Mochila Azul aço claro;2025-02-28
+1076;Mochila Azul céu;2026-07-16
+1077;Mochila Pêssego;2025-10-21
+1078;Mochila Creme de menta;2025-01-11
+1079;Mochila Brasil;2027-02-28
+1080;Relógio de pulso Roxo brasilis;2025-09-19
+1081;Relógio de pulso Cenoura;2026-09-17
+1082;Relógio de pulso Independência;2026-01-18
+1083;Relógio de pulso Rútilo;2027-06-25
+1084;Relógio de pulso Azul claro;2026-10-05
+1085;Relógio de pulso Marrom sela;2027-04-15
+1086;Relógio de pulso Lavanda;2027-04-11
+1087;Relógio de pulso Âmbar;2024-12-14
+1088;Relógio de pulso Castanho claro;2024-12-17
+1089;Relógio de pulso Azul aço;2025-08-30
+1090;Relógio de pulso Creme;2025-04-02
+1091;Relógio de pulso Azul brasilis;2025-04-10
+1092;Relógio de pulso Lavanda avermelhada;2025-09-21
+1093;Relógio de pulso Vermelho violeta pálido;2025-11-24
+1094;Relógio de pulso Pêssego;2026-05-04
+1095;Colar Zinco;2025-08-04
+1096;Colar Ébano;2025-12-29
+1097;Colar Tomate;2026-05-07
+1098;Colar Flerte;2026-06-23
+1099;Colar Água-marinha;2025-09-08
+1100;Colar Azul turquesa brilhante;2026-02-24
+1101;Colar Eminência;2027-05-28
+1102;Colar Azul ardósia;2026-08-14
+1103;Colar Herbal;2026-08-30
+1104;Colar Vermelho violeta pálido;2026-04-05
+1105;Colar Violeta escuro;2025-01-04
+1106;Colar Oliva parda;2025-10-15
+1107;Colar Azul celeste brilhante;2026-04-27
+1108;Colar Carmim carnáceo;2025-01-03
+1109;Colar Rosa brilhante;2026-12-05
+1110;Anel Azul turquesa brilhante;2026-05-04
+1111;Anel Madeira;2026-12-21
+1112;Anel Verde pálido;2025-04-20
+1113;Anel Brasil;2027-01-16
+1114;Anel Terracota;2026-08-09
+1115;Anel Dourado pálido;2027-02-24
+1116;Anel Azul ardósia escuro;2026-04-30
+1117;Anel Cenoura;2027-01-25
+1118;Anel Laranja escuro;2026-11-13
+1119;Anel Azul furtivo;2027-05-24
+1120;Anel Roxo;2026-01-19
+1121;Anel Azul meia-noite;2026-08-06
+1122;Anel Amarelo brasilis;2025-03-16
+1123;Anel Zinco;2026-03-06
+1124;Anel Amarelo esverdeado;2025-07-25
+1125;Brincos Coral claro;2026-12-13
+1126;Brincos Pêssego;2026-02-06
+1127;Brincos Azul celeste brilhante;2025-11-03
+1128;Brincos Rútilo;2026-01-03
+1129;Brincos Nyanza;2027-05-25
+1130;Brincos Glicínia;2025-07-03
+1131;Brincos Ferrugem;2026-03-04
+1132;Brincos Carmim;2025-05-19
+1133;Brincos Verde mar médio;2025-09-05
+1134;Brincos Água-marinha média;2027-06-29
+1135;Brincos Verde;2026-10-20
+1136;Brincos Feldspato;2026-10-25
+1137;Brincos Fuligem;2025-10-01
+1138;Brincos Azul meia-noite;2025-01-09
+1139;Brincos Branco antigo;2025-12-14
+1140;Pulseira Verde floresta;2026-07-31
+1141;Pulseira Azul ardósia claro;2025-04-18
+1142;Pulseira Verde pálido;2026-01-14
+1143;Pulseira Tijolo refratário;2026-12-22
+1144;Pulseira Azul manteiga;2026-12-17
+1145;Pulseira Milho Claro;2027-01-12
+1146;Pulseira Mostarda;2025-06-23
+1147;Pulseira Carmim clássico;2027-02-23
+1148;Pulseira Rosa brilhante;2025-05-16
+1149;Pulseira Laranja claro;2027-05-27
+1150;Pulseira Azul turquesa;2027-05-05
+1151;Pulseira Azul celeste pernambucano;2025-04-15
+1152;Pulseira Fuligem;2026-07-16
+1153;Pulseira Couro;2025-04-04
+1154;Pulseira Branco;2026-07-02
