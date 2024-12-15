@@ -2,13 +2,13 @@
 Este repositório contém análises de dados desenvolvidas em Power BI, juntamente com bases de dados geradas aleatoriamente, evitando a exposição de informações sensíveis. As bases são criadas via scripts em Python ou geradas por meio de banco de dados simulado, permitindo a visualização dos relatórios de forma segura e preservando a confidencialidade dos dados originais.
 
 ## Índice
-- [Análise de Cubagem Logística](##Análise-de-Cubagem-Logística)
-  - [Descrição](###Descrição)
-  - [Importância](####Importância)
-  - [Sobre o DashBoard](###Sobre-o-DashBoard)
-- [Validade de Estoque](##Análise-de-Validade-de-Estoque)
-  - [Descrição](###Descrição)
-  - [Importância](####Importância)
+- [Análise de Cubagem Logística](#Análise-de-Cubagem-Logística)
+  - [Descrição](#Descrição-1)
+  - [Importância](#Importância-1)
+  - [Sobre o DashBoard](#Sobre-o-DashBoard)
+- [Validade de Estoque](#Análise-de-Validade-de-Estoque)
+  - [Descrição](#Descrição-2)
+  - [Importância](#Importância-2)
 
 ## Análise de Cubagem Logística
 ### Descrição
