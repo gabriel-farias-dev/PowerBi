@@ -1,6 +1,15 @@
 # Repositório de Análises Power BI com Bases Aleatórias
 Este repositório contém análises de dados desenvolvidas em Power BI, juntamente com bases de dados geradas aleatoriamente, evitando a exposição de informações sensíveis. As bases são criadas via scripts em Python ou geradas por meio de banco de dados simulado, permitindo a visualização dos relatórios de forma segura e preservando a confidencialidade dos dados originais.
 
+## Índice
+- [Análise de Cubagem Logística](#Análise-de-Cubagem-Logística)
+  - [Descrição](#Descrição)
+  - [Importância](#Importância)
+  - [Sobre o DashBoard](#Sobre-o-DashBoard)
+- [Validade de Estoque](#Análise-de-Validade-de-Estoque)
+  - [Descrição](#Descrição-1)
+  - [Importância](#Importância-1)
+
 ## Análise de Cubagem Logística
 ### Descrição
 A análise de cubagem foca no processo logístico de separar produtos em estoque para acomodação em caixas prontas para expedição. Este processo ocorre em horários estratégicos para otimizar a eficiência de envio e o uso de recursos no centro de distribuição.
@@ -20,3 +29,4 @@ Conhecer a validade dos produtos em estoque é fundamental para determinar a qua
 ### Importância
 A visão da validade do estoque é importante por diversos motivos. No caso de produtos não perecíveis, cuja validade pode durar anos, existem regulamentações que restringem a comercialização a preço cheio quando a validade se aproxima de um limite crítico (por exemplo, 4 meses). Isso obriga a empresa a realizar promoções para evitar grandes prejuízos ao liquidar o estoque. Este relatório auxilia justamente na gestão desses casos relacionados à validade.
 
+[![Validade](https://github.com/user-attachments/assets/e78e2e04-5ed4-4fc2-9466-4a47ede80666)](https://app.powerbi.com/view?r=eyJrIjoiY2ZmNTNlNzAtOTNhMS00YWFkLTk3NTMtZWZmZmUxOWY0N2QyIiwidCI6ImQ2ZTVmZTFhLTQ5YWYtNDNjNS1iMzAyLTE5MTJjODY1NzgzYyJ9)
