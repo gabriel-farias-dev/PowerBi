@@ -30,3 +30,13 @@ Conhecer a validade dos produtos em estoque é fundamental para determinar a qua
 A visão da validade do estoque é importante por diversos motivos. No caso de produtos não perecíveis, cuja validade pode durar anos, existem regulamentações que restringem a comercialização a preço cheio quando a validade se aproxima de um limite crítico (por exemplo, 4 meses). Isso obriga a empresa a realizar promoções para evitar grandes prejuízos ao liquidar o estoque. Este relatório auxilia justamente na gestão desses casos relacionados à validade.
 
 [![Validade](https://github.com/user-attachments/assets/e78e2e04-5ed4-4fc2-9466-4a47ede80666)](https://app.powerbi.com/view?r=eyJrIjoiY2ZmNTNlNzAtOTNhMS00YWFkLTk3NTMtZWZmZmUxOWY0N2QyIiwidCI6ImQ2ZTVmZTFhLTQ5YWYtNDNjNS1iMzAyLTE5MTJjODY1NzgzYyJ9)
+
+## Análise de Absenteismo
+### Descrição e importãncia
+O absenteísmo é um fator crítico a ser monitorado dentro de um centro de distribuição (CD) ou filial. A ausência pontual de um colaborador pode não impactar significativamente as operações da empresa, porém, em um cenário onde uma filial com 50 funcionários registra a falta de 10 pessoas em um único dia, isso representa 20% da equipe ausente, comprometendo diretamente a execução das atividades e a produtividade do local.
+
+Por isso, é fundamental acompanhar tanto a porcentagem de absenteísmo quanto o número de recorrências das faltas. Essa análise possibilita a tomada de decisões estratégicas em relação aos colaboradores com altos índices de ausência, como a realização de um feedback, a aplicação de advertências e, em casos extremos, o desligamento.
+
+Este relatório foi elaborado com dados totalmente aleatórios, incluindo nome do colaborador, gestor, departamento, motivo da ausência e registros de falta. Para garantir uma simulação realista, foi aplicada uma regra de probabilidade, onde cada funcionário tem 10% de chance de ausência em cada dia analisado. O relatório apresenta diferentes perspectivas sobre o absenteísmo na empresa, oferecendo desde análises simples até abordagens mais detalhadas, permitindo uma visão abrangente do impacto das ausências no desempenho organizacional.
+[![Absenteísmo](https://app.powerbi.com/view?r=eyJrIjoiNTViYTIyYWEtNWVlZS00NDAwLWI3ZGEtNTIwYjFlZDZjOGI3IiwidCI6ImQ2ZTVmZTFhLTQ5YWYtNDNjNS1iMzAyLTE5MTJjODY1NzgzYyJ9)](https://github.com/user-attachments/assets/e65302f7-c918-4476-ab33-1d89ec2cac6f)
+
