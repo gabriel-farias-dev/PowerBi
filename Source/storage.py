@@ -33,10 +33,10 @@ def makingData():
 
     #Rooms
     wareHouse_room = [['Receiver',10000],['Receiver',10000],['Stock',50000],['Stock',50000],['Stock',50000],['Stock',50000],['Stock',50000],['Cubing',60000],['Errors',5000],['dispatch',10000],['dispatch',10000],['dispatch',10000],['dispatch',10000]]
-
+    
     df_rooms = pd.DataFrame(data=wareHouse_room,columns=['name','capacity'])
     print('Created WareHouse Rooms')
-
+    
 
     df_storage = pd.DataFrame()
     snap = dt.now().strftime('%Y-%m-%d %H:%M:%S')
