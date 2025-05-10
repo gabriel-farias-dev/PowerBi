@@ -23,7 +23,8 @@ def create_base_hr() -> pd.DataFrame:
      - Falta
      - Motivo falta
      
-     Pra isso preciso setar primeiro as seguintes listas: filial,gestor,departamento,expediente,motivo da falta
+     Pra isso preciso setar primeiro as seguintes listas: filial,gestor,departamento,
+     expediente,motivo da falta
     """
     fake = Faker()
     final_data = []
@@ -81,7 +82,7 @@ def create_base_hr() -> pd.DataFrame:
     
 if __name__ == '__main__':
     #Conection with database
-    connection = psycopg2.connect(f'dbname=db_logistica user=service_user password=)
+    connection = psycopg2.connect(f'dbname=db_logistica user=service_user password=')
     cursor = connection.cursor()
     
     #Caso não exista a pasta onde vai ficar o arquivo consolidado

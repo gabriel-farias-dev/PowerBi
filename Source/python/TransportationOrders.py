@@ -5,7 +5,7 @@ import pandas as pd
 import numpy as np
 from faker import Faker
 import logging
-# import psycopg2
+import psycopg2
 import os
 # from secrets_psql import HOST,PASSWORD
 
@@ -74,47 +74,67 @@ ty_trans = {
     }
 }
 
+def processMovi(hourAdd: int,branch: str,day:int,ttrasn:int,transp_id:int, hourlimit:int = 0,unitReturn:int = 1) -> list:
+    #Down
+    today = (dt.now() - timedelta(days=day)).strftime('%Y-%m-%d')
+    hour = int(round((random.random() * hourAdd) + hourlimit, 0))
+    minute = int(round(random.random() * 59, 0))
+    sec =  int(round(random.random() * 59, 0))
+
+    #We need to discover if origin or destiny is list or unique value
+    if type(ty_trans[ttrasn]['origin']) == list:
+        dep_ori = int(random.choice(ty_trans[ttrasn]['origin']))
+    else:
+        dep_ori = int(ty_trans[ttrasn]['origin'])
+    
+    if type(ty_trans[ttrasn]['destiny']) == list:
+        dep_dest = int(random.choice(ty_trans[ttrasn]['destiny']))
+    else:
+        dep_dest = int(ty_trans[ttrasn]['destiny'])
+
+    category = random.choice(list(products_by_category.keys()))
+    product = random.choice(products_by_category[category])
+    unit = int(round(random.randint(1,2000) * unitReturn,0))
+    user = random.choice(users)
+
+    return [transp_id,branch,today,f'{hour}:{minute}:{sec}',category,product,ttrasn,dep_ori,dep_dest,unit,user]
+
+
 ############### Development of the base
+print('Generation the data ...')
 for everyBranch in branchs:
     for everyDay in range(-390,0):
-
-        #Down
-        today = (dt.now() - timedelta(days=everyDay)).strftime('%Y-%m-%d')
-        hour = round(random.random(0,1) * 12, 0)
-        minute = round(random.random(0,1) * 60, 0)
-        sec =  round(random.random(0,1) * 60, 0)
-
-        typeTrans = 1
-        dep_ori = random.choice(ty_trans[typeTrans]['origin'])
-        dep_dest = ty_trans[typeTrans]['destiny']
-        category = random.choice(products_by_category.keys())
-        product = random.choice(products_by_category[category])
-        unit = random.randint(1,2000)
-        user = random.choice(users)
-
-        transp_id = transp_id + 1
-
-        dataList.append([transp_id,today,hour + ':' + minute + ':' + sec,category,product,typeTrans,dep_ori,dep_dest,unit,user])
-
-        #ToCubing
-        hour = round(random.random(0,1) * 8, 0) + hour
-        minute = round(random.random(0,1) * 60, 0)
-        sec =  round(random.random(0,1) * 60, 0)
-
-        typeTrans = 3
-        dep_ori= ty_trans[typeTrans]['origin']
-        dep_dest = random.choice(ty_trans[typeTrans]['destiny'])
-
-        #return?
-        returnUnit = random.choice([True,False])
-        if returnUnit:
-            unit = unit * random.random(0.6,1)
-            user = random.choice(users)
-        
-        transp_id = transp_id + 1
-        dataList.append([transp_id,today,hour + ':' + minute + ':' + sec,category,product,typeTrans,dep_ori,dep_dest,unit,user])
-
-        if returnUnit:
+        for everyTrasn in range(0, random.randint(25,350)):
+            transp_id =transp_id + 1
+            dataList.append(processMovi(hourAdd=12,branch=everyBranch,day=everyDay,ttrasn=1,transp_id=transp_id))
+            transp_id =transp_id + 1
+            dataList.append(processMovi(hourAdd=4,hourlimit=12,branch=everyBranch,day=everyDay,ttrasn=3,transp_id=transp_id))
             
+            #return?
+            returnUnit = random.choices([True,False],[0.3,0.7],k=1)[0]
+            if returnUnit:
+                transp_id =transp_id + 1
+                dataList.append(processMovi(hourAdd=4,hourlimit=12,branch=everyBranch,day=everyDay,ttrasn=2,transp_id=transp_id,unitReturn= random.random() ))
 
-    
+
+print('Saving ...')
+df = pd.DataFrame(dataList,columns=['id','branch','date','hour','categoria','produto','move_id','dep_origem','dep_destiny','units','user'])
+
+
+if not os.path.exists(r'../../DataToInsert'):
+    os.mkdir(r'../../DataToInsert')
+
+connection = psycopg2.connect(f'dbname=db_logistica user= password=')
+cursor = connection.cursor()
+
+date = dt.now().strftime('%Y-%m-%d')
+df.to_csv(os.path.join(r'../../DataToInsert',f'transp_{date}.csv'),index=None,sep=';')
+
+print('Import data in the database ...')
+#Inserindo
+cursor.execute('truncate table fact.FT_TRANSPORT')
+cursor.execute(f"COPY FACT.FT_TRANSPORT FROM '{os.path.join(r'C:\Users\Farias\Desktop\PowerBi\DataToInsert',f'transp_{date}.csv')}' (FORMAT 'csv',header,delimiter ';')");
+connection.commit()
+print('inserindo com sucesso')
+
+print('Success')
