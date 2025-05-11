@@ -42,3 +42,12 @@ Por isso, é fundamental acompanhar tanto a porcentagem de absenteísmo quanto o
 Este relatório foi elaborado com dados totalmente aleatórios, incluindo nome do colaborador, gestor, departamento, motivo da ausência e registros de falta. Para garantir uma simulação realista, foi aplicada uma regra de probabilidade, onde cada funcionário tem 10% de chance de ausência em cada dia analisado. O relatório apresenta diferentes perspectivas sobre o absenteísmo na empresa, oferecendo desde análises simples até abordagens mais detalhadas, permitindo uma visão abrangente do impacto das ausências no desempenho organizacional.
 [![Absenteísmo](https://github.com/user-attachments/assets/e65302f7-c918-4476-ab33-1d89ec2cac6f)](https://app.powerbi.com/view?r=eyJrIjoiNTViYTIyYWEtNWVlZS00NDAwLWI3ZGEtNTIwYjFlZDZjOGI3IiwidCI6ImQ2ZTVmZTFhLTQ5YWYtNDNjNS1iMzAyLTE5MTJjODY1NzgzYyJ9)
 
+## Analise de Ordens de Transporte
+### Descrição e importância
+Toda movimentação dentro de um estoque logístico precisa ser rastreável, a fim de evitar a perda de mercadorias ou, caso ocorra alguma perda, identificar exatamente qual material foi extraviado e em que quantidade. Além da importância do rastreamento, há também a questão da eficiência logística. Um dos principais pontos nesse aspecto é o processo de retirada de mercadorias do armazenamento para envio à linha de produção, especialmente em operações B2C, onde o produto será encaminhado ao cliente final.
+
+A eficiência está diretamente relacionada à redução de movimentações desnecessárias. Por exemplo, retirar um item do armazenamento, identificar que a quantidade foi excessiva e ter que devolvê-lo parcialmente ao estoque representa uma movimentação ineficiente.
+
+Esses dados também permitem análises mais aprofundadas, como o abastecimento da linha de produção. Se, ao longo do tempo, há um aumento na quantidade de itens enviados para a linha, isso pode indicar um crescimento nas vendas ou a correção de uma deficiência anterior no abastecimento. O mesmo raciocínio se aplica caso ocorra uma redução nessa movimentação.
+
+Para ilustrar esse cenário, foi criada uma base fictícia com dados de movimentação de itens dentro do estoque. As movimentações simuladas incluem: retirada do armazenamento para a "Mesa" (um local transitório), da "Mesa" para a linha de produção, da "Mesa" de volta para o armazenamento e da "Mesa" para a área de avarias dentro do estoque.
