@@ -51,3 +51,5 @@ A eficiência está diretamente relacionada à redução de movimentações desn
 Esses dados também permitem análises mais aprofundadas, como o abastecimento da linha de produção. Se, ao longo do tempo, há um aumento na quantidade de itens enviados para a linha, isso pode indicar um crescimento nas vendas ou a correção de uma deficiência anterior no abastecimento. O mesmo raciocínio se aplica caso ocorra uma redução nessa movimentação.
 
 Para ilustrar esse cenário, foi criada uma base fictícia com dados de movimentação de itens dentro do estoque. As movimentações simuladas incluem: retirada do armazenamento para a "Mesa" (um local transitório), da "Mesa" para a linha de produção, da "Mesa" de volta para o armazenamento e da "Mesa" para a área de avarias dentro do estoque.
+
+[![Gestão de OTs](https://github.com/user-attachments/assets/88af0121-4f51-4711-98db-f689211c9440)](https://app.powerbi.com/view?r=eyJrIjoiMWVkYjZkY2QtYTcxNC00OTMwLWIwMDQtNzAxNjI1MTc4ZDViIiwidCI6ImQ2ZTVmZTFhLTQ5YWYtNDNjNS1iMzAyLTE5MTJjODY1NzgzYyJ9)
