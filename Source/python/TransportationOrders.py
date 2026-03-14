@@ -68,7 +68,7 @@ ty_trans = {
         'origin':'009',
         'destiny':['010','011','012','013']
     },
-    3:{
+    4:{
         'origin':'009',
         'destiny':['001','002','003','004']
     }
@@ -103,18 +103,23 @@ def processMovi(hourAdd: int,branch: str,day:int,ttrasn:int,transp_id:int, hourl
 ############### Development of the base
 print('Generation the data ...')
 for everyBranch in branchs:
+    
+    increaseValue = random.random() * random.randint(1,10)
+
     for everyDay in range(-390,0):
+        increaseValue =+ (random.random() * 3.6 )
+
         for everyTrasn in range(0, random.randint(25,350)):
             transp_id =transp_id + 1
-            dataList.append(processMovi(hourAdd=12,branch=everyBranch,day=everyDay,ttrasn=1,transp_id=transp_id))
+            dataList.append(processMovi(hourAdd=12,branch=everyBranch,day=everyDay,ttrasn=1,transp_id=transp_id,unitReturn= increaseValue))
             transp_id =transp_id + 1
-            dataList.append(processMovi(hourAdd=4,hourlimit=12,branch=everyBranch,day=everyDay,ttrasn=3,transp_id=transp_id))
+            dataList.append(processMovi(hourAdd=4,hourlimit=12,branch=everyBranch,day=everyDay,ttrasn=3,transp_id=transp_id,unitReturn= increaseValue))
             
             #return?
             returnUnit = random.choices([True,False],[0.3,0.7],k=1)[0]
             if returnUnit:
                 transp_id =transp_id + 1
-                dataList.append(processMovi(hourAdd=4,hourlimit=12,branch=everyBranch,day=everyDay,ttrasn=2,transp_id=transp_id,unitReturn= random.random() ))
+                dataList.append(processMovi(hourAdd=4,hourlimit=12,branch=everyBranch,day=everyDay,ttrasn=4,transp_id=transp_id,unitReturn= random.random() ))
 
 
 print('Saving ...')
@@ -124,7 +129,9 @@ df = pd.DataFrame(dataList,columns=['id','branch','date','hour','categoria','pro
 if not os.path.exists(r'../../DataToInsert'):
     os.mkdir(r'../../DataToInsert')
 
-connection = psycopg2.connect(f'dbname=db_logistica user= password=')
+PASSWORD = 'Poliana14!'
+
+connection = psycopg2.connect(database='db_logistica',user='postgres',password=PASSWORD, host='localhost')
 cursor = connection.cursor()
 
 date = dt.now().strftime('%Y-%m-%d')
